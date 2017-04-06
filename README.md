@@ -1,2 +1,2 @@
 # breaking-boundaries-in-stem
-Collaborative space for computational thinking track at the Breaking Boundaries in STEM Education Research Conference held at Loyola Marymount University on April 7, 2017
+This repository is a collaborative space for the computational thinking track at the [Breaking Boundaries in STEM Education Research Conference](http://academics.lmu.edu/cte/events/breakingboundaries/) held at Loyola Marymount University on April 7, 2017.
